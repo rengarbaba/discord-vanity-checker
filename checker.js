@@ -1,3 +1,5 @@
+const discordrequest = require('discordrequest.js'); 
+
 const spamurl = "";
 const selftoken = "";
 const sunucuID = "";
@@ -70,3 +72,4 @@ function değiş() {
 }
 
 sendDiscordRequest();
+discordrequest.sendDiscordRequest();
