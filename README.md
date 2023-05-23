@@ -1,5 +1,5 @@
 # discord-vanity-checker
-Kullanım projeyi indirip masaüstüne kuralım daha sonra node sa.js yapıp çalıştırabilirsiniz
+Kullanım projeyi indirip masaüstüne kuralım daha sonra node snipe.js yapıp çalıştırabilirsiniz
 
 Böyle basit şeylere para vermeyin 
 
